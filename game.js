@@ -896,8 +896,8 @@
             '<p>New to the format or to League esports? Start with the full How to Play guide for draft rules, rerolls and scoring, then use the glossary to understand regions, events, roles and common competitive terms.</p>' +
           '</div>' +
           '<nav class="content-links" aria-label="Site information">' +
-            '<a href="/how-to-play/">How to Play</a>' +
-            '<a href="/glossary/">Glossary</a>' +
+            '<a href="how-to-play/">How to Play</a>' +
+            '<a href="glossary/">Glossary</a>' +
             '<a href="about.html">About and scoring</a>' +
             '<a href="contact.html">Contact</a>' +
             '<a href="privacy.html">Privacy</a>' +
@@ -906,7 +906,7 @@
         '</section>' +
         '<div class="start-legal">' +
           '<p>Golden Road LoL is an unofficial fan game. It isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. Player and team names are factual references to public esports history; all ratings and results are fictional.</p>' +
-          '<p class="start-legal-links"><a href="/how-to-play/">How to Play</a> · <a href="/glossary/">Glossary</a> · <a href="about.html">About</a> · <a href="contact.html">Contact</a> · <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Use</a></p>' +
+          '<p class="start-legal-links"><a href="how-to-play/">How to Play</a> · <a href="glossary/">Glossary</a> · <a href="about.html">About</a> · <a href="contact.html">Contact</a> · <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Use</a></p>' +
         '</div>' +
       '</div>';
   }
